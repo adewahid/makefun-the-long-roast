@@ -1,0 +1,1 @@
+My agent treats every git push like defusing a bomb: it stops, files a permission request, writes a report about filing it, then asks if it may send the report.
